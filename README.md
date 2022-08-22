@@ -1,3 +1,3 @@
 ## Curso de GIT
 
-Hola soy tu friend
+Hola soy tu friend y no mames
