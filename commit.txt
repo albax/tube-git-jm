@@ -1,0 +1,87 @@
+commit ee41bb9fe5762715c5967acd473864b912c3a8e7
+Author: albax <bacz.al@gmail.com>
+Date:   Thu Sep 1 20:30:07 2022 -0500
+
+    add fechas
+
+commit 183a3066f1a16d9b88c44a46bd88fc02c546abe8
+Merge: 1a0633f 5eab4b3
+Author: albax <bacz.al@gmail.com>
+Date:   Thu Sep 1 14:43:15 2022 -0500
+
+    Resolviendo conflicto merge
+
+commit 5eab4b32f2e732f93a761c05097d238270b85c3f
+Author: albax <bacz.al@gmail.com>
+Date:   Sun Aug 28 23:24:44 2022 -0500
+
+    agregando index.js al index.html
+
+commit 1a0633f9357859af7d83caacad928d2e89443854
+Author: albax <bacz.al@gmail.com>
+Date:   Sun Aug 28 23:00:43 2022 -0500
+
+    agregando style.css al index.html
+
+commit 47e8bc6aaf468b267416a86ae10e9fdd3be2b519
+Merge: f6bc526 d2b08d5
+Author: albax <bacz.al@gmail.com>
+Date:   Sun Aug 28 22:05:54 2022 -0500
+
+    Merge branch 'js'
+
+commit f6bc5267b1688cb517443c8041165a45f955985a
+Merge: b98b3ac 65339a2
+Author: albax <bacz.al@gmail.com>
+Date:   Sun Aug 28 22:05:32 2022 -0500
+
+    Merge branch 'css'
+
+commit b98b3ac79346fad24847afe634095153c3e806bb
+Merge: ffc6b19 7279100
+Author: albax <bacz.al@gmail.com>
+Date:   Sun Aug 28 21:43:05 2022 -0500
+
+    Merge branch 'html'
+
+commit ffc6b1962a44be66b77a2546f21012d1b5843f62
+Author: albax <bacz.al@gmail.com>
+Date:   Sun Aug 28 21:39:27 2022 -0500
+
+    add exe
+
+commit d2b08d50e7b55cefda13c96bb30e85676d566d0e
+Author: albax <bacz.al@gmail.com>
+Date:   Mon Aug 22 04:17:07 2022 -0500
+
+    creando index.js
+
+commit 65339a263dca38050c6a56c943d5cae5bd7cc1fc
+Author: albax <bacz.al@gmail.com>
+Date:   Mon Aug 22 04:09:09 2022 -0500
+
+    nuevo css
+
+commit 7279100aff83f940739c70e5fac2fb9c5c4259cc
+Author: albax <bacz.al@gmail.com>
+Date:   Mon Aug 22 03:57:55 2022 -0500
+
+    primer html otra rama
+
+commit 91f22e823b45384494ee6f1ddeefdcdff78195cb
+Author: ax <bacz.al@gmail.com>
+Date:   Mon Aug 22 02:48:17 2022 -0500
+
+    creando licence del repo
+
+commit ac45386de40e11f28d3be43b3b81504c77726fc0
+Author: albax <bacz.al@gmail.com>
+Date:   Mon Aug 22 02:38:45 2022 -0500
+
+    nuevo cambio
+
+commit 7af77afdc27901823c63e11545564abe14972fb6
+Author: albax <bacz.al@gmail.com>
+Date:   Wed Aug 17 02:58:22 2022 -0500
+
+    Primer commit :)
